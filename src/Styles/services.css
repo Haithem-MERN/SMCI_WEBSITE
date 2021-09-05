@@ -1,0 +1,30 @@
+#services {
+    box-shadow: 5px 5px 5px  5px grey;
+    width: 95%;
+    margin:  10px auto;
+    border-radius: 10px;
+}
+
+#services .desc-service{
+    text-indent: 30px;
+}
+#services .card {
+    box-shadow: 5px 5px 5px  5px grey;
+    height: 400px;
+    margin: auto;
+    margin-bottom: 20px!important;
+}
+
+#services .col{
+    margin-top: 10px;
+}
+#services .card-title{
+    text-align: center;
+    font-weight: bold;
+}
+#services .card-text{
+    font-size: 0.9rem;
+}
+#services .card-text li {
+    margin-left: 10px;
+}

@@ -1,0 +1,7 @@
+.home h1,h2{
+    text-align: center;
+}
+
+.carousel-item, .carousel{
+    height: 77vh;
+  }
